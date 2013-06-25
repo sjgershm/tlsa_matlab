@@ -1,4 +1,4 @@
-tlsa_matlab
+Topographic Latent Source Analysis
 ===========
 
 Matlab code for Topographic Latent Source Analysis of brain imaging data.
